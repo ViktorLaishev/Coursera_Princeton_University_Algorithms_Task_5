@@ -44,3 +44,4 @@ public class PointSET {
    public static void main(String[] args)                  // unit testing of the methods (optional) 
 }
    
+Implementation requirements.  You must use either SET or java.util.TreeSet; do not implement your own red–black BST.
