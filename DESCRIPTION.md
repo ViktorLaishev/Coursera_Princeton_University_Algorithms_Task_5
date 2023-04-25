@@ -13,3 +13,4 @@ public class Point2D implements Comparable<Point2D> {
    public    void draw()                           // draw to standard draw 
    public  String toString()                       // string representation 
 }
+The immutable data type RectHV (part of algs4.jar) represents axis-aligned rectangles. Here is the subset of its API that you may use:
