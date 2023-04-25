@@ -45,3 +45,4 @@ public class PointSET {
 }
    
 Implementation requirements.  You must use either SET or java.util.TreeSet; do not implement your own red–black BST.
+Corner cases.  Throw an IllegalArgumentException if any argument is null. Performance requirements.  Your implementation should support insert() and contains() in time proportional to the logarithm of the number of points in the set in the worst case; it should support nearest() and range() in time proportional to the number of points in the set.
