@@ -25,7 +25,7 @@ public class PointSET {
         if (p == null) throw new IllegalArgumentException();
         points.add(p);
     }
-
+ 
     public boolean contains(Point2D p) {
         if (p == null) throw new IllegalArgumentException();
         return points.contains(p);
