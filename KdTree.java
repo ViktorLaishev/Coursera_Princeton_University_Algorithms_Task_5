@@ -7,7 +7,7 @@ import java.util.Stack;
 public class KdTree {
 
     private Node root;
-    private int size;
+    private int size; 
 
     public KdTree() {
         size = 0;
