@@ -9,7 +9,7 @@ public class KdTree {
     private Node root;
     private int size; 
 
-    public KdTree() {
+    public KdTree() { 
         size = 0;
     }
 
