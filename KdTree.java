@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdDraw;
   
 import java.util.Stack;  
  
-public class KdTree {
+public class KdTree { 
 
     private Node root; 
     private int size; 
