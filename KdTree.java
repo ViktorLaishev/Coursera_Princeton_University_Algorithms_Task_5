@@ -3,7 +3,7 @@ import edu.princeton.cs.algs4.RectHV;
 import edu.princeton.cs.algs4.StdDraw;  
   
 import java.util.Stack;   
- 
+  
 public class KdTree {  
 
     private Node root; 
